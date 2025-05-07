@@ -1,3 +1,151 @@
 {
-    "show": true
+  "show": true,
+  "profile": {
+    "showBasic": true,
+    "basic": {
+      "name": "Mohammed hasif",
+      "profileId": "WT3190711",
+      "age": "29 Yrs",
+      "gender": "Male",
+      "maritalStatus": "Never Married",
+      "profileFor": "My Self",
+      "ethnicGroup": "Indian",
+      "willingToRelocate": "Depends on Circumstances",
+      "marriagePlan": "After Getting to Know Each Other Well",
+      "languagesKnown": "English, Hindi",
+      "physicalStatus": "Normal Person",
+      "motherTongue": "Malayalam"
+    },
+    "showDescription": true,
+    "description": "I graduated with a B.Tech in Computer Science and Engineering and currently work as a Senior Software Engineer (Team Lead) at a reputed company. I firmly believe in Islam and practice it in my daily life. I enjoy traveling.",
+    "showLocation": true,
+    "location": {
+      "presentLocation": "Palm Jumeira Monorail, United Arab Emirates",
+      "homeLocation": "Vengad, Malappuram, Kerala, India"
+    },
+    "showContact": true,
+    "contact": {
+      "primaryNumber": "+971 542194575",
+      "secondaryNumber": "+91 7012438494",
+      "email": "asifvengad@gmail.com",
+      "contactType": "Primary Number",
+      "timeToCall": "9 AM to 10 PM",
+      "contactPerson": "Myself",
+      "fullAddress": "Kodakkattuparambil house\nvengad post (679338)\nmalappuram dist\nkerala"
+    },
+    "showReligious": true,
+    "religious": {
+      "religion": "Muslim",
+      "caste": "A Muslim",
+      "religiousness": "Religious",
+      "performNamaz": "Always",
+      "readQuran": "Daily",
+      "mahalluName": "Melmuri",
+      "madrasaEducation": "12",
+      "bornReverted": "Muslim by Birth"
+    },
+    "showEducation": true,
+    "education": {
+      "education": "Bachelors Degree (B Tech)",
+      "educationInstitution": "Mea Engineering college perinthelmanna",
+      "eduDetails": "B.Tech Computer science",
+      "profession": "Software Engineer",
+      "companyName": "FLYINGCOLOUR TAX CONSULTANT",
+      "jobDetails": "SOFTWARE ENGINEER",
+      "professionType": "Full Time",
+      "annualIncome": "INR : 20 lakhs and Above"
+    },
+    "showPhysical": true,
+    "physical": {
+      "height": "175cm",
+      "weight": "70 Kg",
+      "complexion": "Wheatish",
+      "bloodGroup": "O+",
+      "bodyType": "Athletic",
+      "hairColor": "Black",
+      "hairType": "Wavy",
+      "facialHair": "Short Beard",
+      "eyeColor": "Black",
+      "eyeWear": "None"
+    },
+    "showFamily": true,
+    "family": {
+      "familyType": "Nuclear Family",
+      "financialStatus": "Middle Class",
+      "homeType": "House",
+      "livingSituation": "Live with family",
+      "fatherDetails": "Died (Ex-NRI)",
+      "motherDetails": "Alive (Homemaker)",
+      "youngerBrothers": "2",
+      "marriedBrothers": "No married brother",
+      "elderSisters": "1",
+      "youngerSisters": "1",
+      "marriedSisters": "One married sisters",
+      "familyValues": "Moderate",
+      "familyOrigin": "Kodakkattu parambile",
+      "familyDetails": "I belong to a loving, and supportive and reputed family. My mother is a homemaker, and my father passed away. My elder sister,compled M.Sc. in Mathematics, is married and settled with her family. My younger brother has completed his B.Tech in Computer Science and Engineering and is currently doing an internship. My younger sister is preparing for the NEET exams in brilliant pala, and my youngest brother is currently in 12th grade doing hudawi course too."
+    },
+    "showHobbies": true,
+    "hobbies": {
+      "eatingHabits": "Occasionally Non-Veg",
+      "smokingHabits": "No",
+      "drinkingHabits": "No",
+      "hobbiesInterests": "charity,Duaa for others,Reading Quran,Family time,DIY,Learning languages,Reading,Jogging",
+      "favouriteFood": "Arabian and Indian food.",
+      "favouriteSports": "Football",
+      "favouriteBooks": "The Alchemist, Atomic habits,Unshakable",
+      "personality": "Ambivert,Active Listner,Ambitious,Empathetic,Family Oriented,Open Minded,Supportive"
+    },
+    "showPartnerPreference": true,
+    "partnerPreference": {
+      "basic": {
+        "agePreference": "21 - 25Yrs",
+        "heightPreference": "150 cm to 170 cm",
+        "maritalStatus": "Never Married",
+        "complexion": "Does not matter",
+        "physicalStatus": "Normal Person",
+        "eatingHabits": "Does not matter",
+        "drinkingHabits": "No",
+        "smokingHabits": "No",
+        "ethnicGroup": "Indian",
+        "languagesSpoken": "Does not matter",
+        "appearance": "Does not matter"
+      },
+      "education": {
+        "education": "Any Graduation and Above",
+        "profession": "Does not matter",
+        "annualIncome": "Does not matter"
+      },
+      "location": {
+        "country": "India",
+        "state": "Kerala",
+        "district": "Malappuram, Palakkad, Ernakulam, Thrissur, Kozhikode",
+        "nationality": "India"
+      },
+      "expectation": "I'm looking for a kind and friendly partner who values mutual respect, understanding, and family. I give importance to the five daily prayers, as they keep me grounded and motivated, though I try to follow my faith without being too rigid. I hope for the same from my partner. I'm calm, open-minded, and enjoy meaningful conversations with a good sense of humor. I'd appreciate someone who is encouraging and brings positive energy into life. I'm also very happy to support a partner who wants to continue her career if she's motivated or passionate about it—I believe in supporting, not pushing. I'm interested in settling here in the UAE and I would appreciate it if my partner is also open to that possibility, In Sha Allah."
+    },
+    "showImages": true,
+    "images": [
+      {
+        "url": "https://github.com/lavahasif/myphoto/blob/main/WhatsApp%20Image%202025-05-07%20at%2022.06.33_0a24d2bc.jpg?raw=true",
+        "isMain": true
+      },
+      {
+        "url": "https://github.com/lavahasif/myphoto/blob/main/2.jpg?raw=true",
+        "isMain": false
+      },
+      {
+        "url": "https://github.com/lavahasif/myphoto/blob/main/3.jpg?raw=true",
+        "isMain": false
+      },
+      {
+        "url": "https://github.com/lavahasif/myphoto/blob/main/4.jpg?raw=true",
+        "isMain": false
+      },
+      {
+        "url": "https://github.com/lavahasif/myphoto/blob/main/5.jpg?raw=true",
+        "isMain": false
+      }
+    ]
+  }
 }
