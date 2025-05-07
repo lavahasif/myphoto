@@ -1,7 +1,7 @@
 {
   "show": true,
   "profile": {
-    "showBasic": false,
+    "showBasic": true,
     "basic": {
       "name": "Mohammed hasif",
       "profileId": "WT3190711",
