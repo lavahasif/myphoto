@@ -96,7 +96,7 @@
       "favouriteBooks": "The Alchemist, Atomic habits,Unshakable",
       "personality": "Ambivert,Active Listner,Ambitious,Empathetic,Family Oriented,Open Minded,Supportive"
     },
-    "showPartnerPreference": true,
+    "showPartnerPreference": false,
     "partnerPreference": {
       "basic": {
         "agePreference": "21 - 25Yrs",
