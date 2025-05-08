@@ -44,7 +44,7 @@
       "madrasaEducation": "12",
       "bornReverted": "Muslim by Birth"
     },
-    "showEducation": true,
+    "showEducation": false,
     "education": {
       "education": "Bachelors Degree (B Tech)",
       "educationInstitution": "Mea Engineering college perinthelmanna",
